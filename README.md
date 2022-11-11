@@ -4,7 +4,9 @@ A project I worked on, where I compiled the basics of Python.
 
 Python beginners will find this compilation helpful.
 
-Python embraces a "there should be one—and preferably only one—obvious way to do it" philosophy. A great and versatile programming language
+Python embraces a "there should be one—and preferably only one—obvious way to do it" philosophy. 
+
+A great and versatile programming language
 
 My favourite❤️
 
